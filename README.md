@@ -2,7 +2,7 @@
 
 <img width="940" height="301" src="https://github.com/apredeus/yakutica/blob/master/img/figure3.jpg">
 
-Analysis scripts and supplementary data for Gortzia yakutica paper (currently under review). 
+Analysis scripts and supplementary data for *Gortzia yakutica* paper (currently under review). 
 
 Preprint is available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.13.895557v1).
 
@@ -16,4 +16,8 @@ Preprint is available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.
 
 ## Scripts
 
-All scripts necessary to re-do the analysis and data visualisation from the paper are available in /scripts. All commands are listed with comments in `commands.sh`. R script is used to create Figure 5. Matrix of pairwise distances is generated from **yakut_v6g_trim.fa** using `msa_to_pairwise.pl`. 
+All scripts necessary to re-do the analysis and data visualisation from the paper are available in /scripts. 
+
+All commands are listed with comments in `commands.sh`. R script is used to create Figure 5. 
+
+Pairwise similarities are calculated from **yakut_v6g_trim.fa** using `msa_to_pairwise.pl`. 
