@@ -48,3 +48,6 @@ mcmc ngen=20000 samplefreq=100 printfreq=100 diagnfreq=1000
 sump
 sumt
 
+#9 calculate pairwise distances (use the tsv file in R script to make Figure 5)
+
+./msa_to_distance.pl yakut_v6g_trim.fa > distances_17_spp.tsv
