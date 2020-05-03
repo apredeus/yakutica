@@ -1,6 +1,6 @@
 # Gortzia yakutica 
 
-<img width="940" height="301" src="https://github.com/apredeus/yakutica/blob/master/img/figure3.png">
+<img width="940" height="301" src="https://github.com/apredeus/yakutica/blob/master/img/figure3.jpg">
 
 Analysis scripts and supplementary data for Gortzia yakutica paper (currently under review). 
 
