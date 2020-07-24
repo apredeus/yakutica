@@ -2,7 +2,11 @@
 
 <img width="940" height="301" src="https://github.com/apredeus/yakutica/blob/master/img/figure3.jpg">
 
-Analysis scripts and supplementary data for *Gortzia yakutica* paper (currently under review). 
+Analysis scripts and supplementary data for *Gortzia yakutica* paper.
+
+## Reference
+
+Beliavskaia AY, Predeus AV, Garushyants SK, Logacheva MD, Gong J, Zou S, Gelfand MS, Rautian MS, [New Intranuclear Symbiotic Bacteria from Macronucleus of Paramecium putrinum—“Candidatus Gortzia Yakutica”](https://www.mdpi.com/1424-2818/12/5/198), *Diversity 12(5), 198*.
 
 Preprint is available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.13.895557v1).
 
